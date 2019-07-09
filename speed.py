@@ -1,3 +1,5 @@
+#Solution for https://open.kattis.com/problems/speed
+
 #Getting details from inputs
 inp = input().split()
 noSections = int(inp[0])

@@ -1,3 +1,5 @@
+#Solution for https://open.kattis.com/problems/brokenswords
+
 #Getting number of sticks
 num = int(input())
 numTB = 0
